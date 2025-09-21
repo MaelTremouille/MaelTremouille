@@ -1,16 +1,8 @@
 # 👋 Hi, I'm Maël Trémouille  
 
-🎓 Student at **ENSAE Paris** & Master’s student in **Data Science at École Polytechnique**  
-💡 Passionate about **data science, machine learning, and AI**  
+🎓 Student at **ENSAE Paris** & Master’s student in **Data Science at École polytechnique**  
+💡 Passionate about **maths, data science, machine learning, and AI**  
 🌍 Based in France  
-
----
-
-## 🧑‍💻 About Me  
-- 📊 Strong background in statistics and applied mathematics  
-- 🤖 Interested in deep learning, Bayesian methods, and time series analysis  
-- 🧪 Always eager to explore the theory behind algorithms and put it into practice  
-- 🚀 Looking to contribute to impactful data-driven projects  
 
 ---
 
@@ -20,7 +12,7 @@
 - Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)  
 - R (tidyverse, forecast, caret)  
 - Machine Learning: regression, classification, clustering, dimensionality reduction  
-- Time Series Analysis & Forecasting (ARIMA, VAR, Bayesian approaches)  
+- Time Series Analysis & Forecasting (ARIMA, VAR)  
 
 ### 🤖 AI & Deep Learning  
 - Neural Networks (MLP, CNN basics)  
@@ -31,7 +23,7 @@
 - Git / GitHub  
 - Jupyter Notebook, RStudio  
 - LaTeX, Markdown  
-- Data visualization & storytelling  
+- Data visualization
 
 ---
 
