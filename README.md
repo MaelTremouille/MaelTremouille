@@ -50,6 +50,7 @@
 ---
 
 ## 📫 Contact  
-- ✉️ Email: *[ajoute ton mail académique/pro]*  
-- 🔗 LinkedIn: *[ajoute ton LinkedIn]*  
+- ✉️ Email: [mael.tremouille@ensae.fr](mailto:mael.tremouille@ensae.fr)  
+- 🔗 LinkedIn: [Maël Trémouille](https://www.linkedin.com/in/maël-trémouille-62490b284/)  
 - 🐙 GitHub: [MaelTremouille](https://github.com/MaelTremouille)  
+
