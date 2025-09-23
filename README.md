@@ -41,14 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Mael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaelTremouille&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelTremouille&layout=compact&theme=radical)  
-
----
-
 ## 📫 Contact  
 - ✉️ Email: [mael.tremouille@ensae.fr](mailto:mael.tremouille@ensae.fr)  
 - 🔗 LinkedIn: [Maël Trémouille](https://www.linkedin.com/in/maël-trémouille-62490b284/)  
