@@ -31,7 +31,7 @@
 
 | Repository | Description | Techs |
 |------------|-------------|-------|
-| [🛡️ Advanced_machine_learning](https://github.com/MaelTremouille/Advanced_machine_learning) | **Adversarial Robustness Framework** – A modular end-to-end pipeline for the GTSRB dataset. Implements standard and PGD adversarial training, $L_{\infty}$ robustness benchmarking, and optimized $L_0$ Universal Adversarial Patch attacks. | Python, PyTorch, Adversarial ML |
+| [🛡️ Advanced_machine_learning](https://github.com/MaelTremouille/toward-robust-models) | **Adversarial Robustness Framework** – A modular end-to-end pipeline for the GTSRB dataset. Implements standard and PGD adversarial training, $L_{\infty}$ robustness benchmarking, and optimized $L_0$ Universal Adversarial Patch attacks. | Python, PyTorch, Adversarial ML |
 | [🔬 Noisy-GP-notebook](https://github.com/MaelTremouille/Noisy-GP-notebook) | Internship project at ONERA: Bayesian optimization with noisy Gaussian processes, including implementation details. | Python, Gaussian Processes, Bayesian Optimization |
 | [🔢 Euler_Monte_Carlo](https://github.com/Leooryx/Euler_Monte_Carlo) | Joint project: stochastic methods (importance sampling, quasi-Monte Carlo, control variates) to estimate Euler’s constant γ. | Python, Monte Carlo, Probability |
 | [📈 LTS-ensae](https://github.com/MaelTremouille/LTS-ensae) | Time Series Analysis – ARIMA Modeling in R. Academic project analyzing the INSEE industrial production index (1990–2025) with ARIMA modeling, forecasting, and residual validation. | R, Time Series, ARIMA |
